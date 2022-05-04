@@ -1,5 +1,5 @@
 # Competitive-Programming-Task
-A Part of GeeksForGeeks SRMIST Technical Domain Task Round <br>
+A Part of GeeksForGeeks SRMIST Technical Domain Task Round <hr>
 
 <u><h3>Task 1</u>:-</h3>
 <i>Given the string "A string." Print on one line the letter on the index 0, the pointer position and the letter t. Update the pointer to pointer+2. Then, in another line print the pointer and the letters r and g of the string (using the pointer). Create a GitHub repository with your code in it.</i>

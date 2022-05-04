@@ -1,9 +1,10 @@
 #include <stdio.h>
 int arr[6]={1,2,3,4,5,6};
 
-void relocate_print(int i, int array[6], int n)
+void rearrange(int i, int array[6], int n)
 {
-	for(int u=6; u>i;u=u-1){
+	for(int u=6; u>i;u=u-1)
+	{
 	 array[u]=array[u-1];
 	 }
 	array[i]=n;
@@ -19,6 +20,6 @@ int main(){
 	scanf("%d", &num);
 	printf("Enter index: ");
 	scanf("%d", &index);
-	relocate_print(index,arr,num);
+	rearrange(index,arr,num);
   return 0;
 }

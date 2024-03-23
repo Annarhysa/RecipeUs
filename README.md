@@ -1,2 +1,2 @@
-# Weekndr
-An app that suggests weekend plans in your area.
+# RecipeUs
+A recommendation engine that suggests recipes to cook with friends/alone.

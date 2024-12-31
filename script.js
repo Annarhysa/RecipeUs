@@ -1,4 +1,4 @@
-function getWeekendPlans() {
+function getRecipe() {
     const location = document.getElementById('location').value.trim();
 
     if (!location) {
